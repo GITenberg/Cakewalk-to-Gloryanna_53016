@@ -1,0 +1,32 @@
+_repo: Cakewalk-to-Gloryanna_53016
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stecher, L. J., Jr.
+    aliases:
+    - Wesley, Joseph
+    - Stecher, L. J.
+    - Stecher, Lewis J., Jr.
+    birthdate: 1918
+    deathdate: 1988
+    gutenberg_agent_id: '32723'
+    url: http://www.gutenberg.org/2009/agents/32723
+description: ''
+gutenberg_issued: '2016-09-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53016'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Hannah, Bart (Fictitious character) -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Interstellar travel -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Cakewalk to Gloryanna
+url: http://www.gutenberg.org/ebooks/53016
